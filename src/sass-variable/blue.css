@@ -1,0 +1,9 @@
+.div-ele {
+  width: 200px;
+  height: 200px;
+  line-height: 200px;
+  text-align: center;
+  color: #fff;
+  margin-bottom: 20px;
+  background-color: blue;
+}
